@@ -11,3 +11,7 @@
 ul {
   list-style: none;
 }
+
+.avatar {
+  height: 3rem;
+}
